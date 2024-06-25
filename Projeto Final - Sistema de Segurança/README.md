@@ -8,8 +8,11 @@ Para que o projeto seja considerado completo, ele deve satisfazer o uso de: Sens
 ## Componentes Usados
 
 esp32 WROOM Dev Kit
+
 Módulo RFID MFRC522
+
 SSD1283A
+
 Teclado Matricial 4x4
 
 ## 
