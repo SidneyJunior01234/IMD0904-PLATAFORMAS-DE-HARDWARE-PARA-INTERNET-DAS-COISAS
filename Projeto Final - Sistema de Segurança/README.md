@@ -114,4 +114,4 @@ Para uma primeira versão do projeto, tivemos resultados satisfatórios devido a
 # Participanetes
 
 [João Gabriel Rodrigues de Azevedo ](http://github.com/joaogabrielra)
-Sidney Alves dos Santos Junior
+[Sidney Alves dos Santos Junior](https://github.com/SidneyJunior01234)
