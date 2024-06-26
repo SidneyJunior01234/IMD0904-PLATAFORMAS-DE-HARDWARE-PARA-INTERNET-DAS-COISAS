@@ -107,7 +107,7 @@ Cso seja necessário visualizar os logs armazenados, basta utilizar `String read
 
 [![Teste do Projeto](https://img.youtube.com/vi/zWmpUKK1g3U/0.jpg)](https://youtu.be/zWmpUKK1g3U)
 
-#Conclusão
+# Conclusão
 
 Para uma primeira versão do projeto, tivemos resultados satisfatórios devido ao seu funcionamento. Para que se torne uma aplicação para o dia a dia, devemos utilizar sensores específicos para as portas para identificar se houve uma entrada forçada, assim como melhorar em quesito de código criando uma biblioteca própria para o projeto permitindo criar módulos onde podemos escolher quais componentes podemos utilizar em locais diferentes, melhoria em adicionar novos usuários como por meio de uma interface gráfica.
 
